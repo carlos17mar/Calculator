@@ -14,13 +14,14 @@
     padding: 15px;
     border-style: solid;
     width: 400px;
-    padding-top: 25px;
+    padding-top: 70px;
     border-radius: 2%;
     background-color: #1f1f1f;
     padding-right: 20px;
     border: 7px groove rgba(157,157,157,0.9); 
     /*background-color: #F57A00;*/
   }
+
   
   .display {  
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -75,7 +76,14 @@ outline-offset: 0px;
   }
   
   button:hover{
-    background-color: rgb(255, 129, 3);
+    background-color: rgb(191, 191, 190);
 
   }
   
+  #ac{
+    background-color: crimson;
+  }
+  #ac:hover{
+    background-color: rgb(191, 191, 190);
+
+  }
